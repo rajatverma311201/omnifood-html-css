@@ -1,3 +1,3 @@
 # Omnifood
 
-## [Click to see live demo](https://omnifood-html-css-rv.netlify.app/)
+## [Click to see live demo](https://omnifood.rajat-verma.in/)
